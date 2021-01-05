@@ -1,5 +1,9 @@
+
+body {
+  background-color:rgb(149, 151, 243);
+}
 h1 {
-  color: blue;
+  color: #7777c4;
   text-align: center;
 }
 
@@ -9,7 +13,7 @@ h2 {
 }
 
 p {
-  font-family: sans-serif;
+  font-family:serif;
 }
 
 ul {
