@@ -16,6 +16,8 @@ _This website contains information about my favorite things and places. Links ha
 ## Setup/Installation Requirements
 
 * _Click on the provided link to navigate directly to the webpage._
+  
+  https://mekinsie.github.io/my-first-webpage/
 
 ## Known Bugs
 
